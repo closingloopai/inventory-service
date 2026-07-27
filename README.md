@@ -1,2 +1,3 @@
 # inventory-service
-Stock levels, reservation, warehouse allocation
+
+Stock levels, all-or-nothing reservation, and multi-warehouse allocation.
